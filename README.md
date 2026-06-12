@@ -1,4 +1,5 @@
 # Hey, I'm Reetuparna Saha 👋
+[View my portfolio →](https://reetuparna-saha.netlify.app)
 
 **Data & Analytics Professional | MBA Analytics @ IIM Kashipur | B.Tech EE @ NIT Durgapur**
 
